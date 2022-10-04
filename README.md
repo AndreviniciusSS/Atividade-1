@@ -1,12 +1,13 @@
- FAÇA UM PROGRAMA QUE MOSTRE A MENSAGEM "ALO MUNDO" NA TELA
 
-RESOLUÇAO -  
-class Main
+FAÇA UM PROGRAMA QUE MOSTRE A MENSAGEM "ALO MUNDO" NA TELA
 
+- RESOLUÇAO     
 
-public static void main(String[] args) {
- System.out.println ("Alo mundo");
- 
+class Main {
+  
+  public static void main(String[] args) {
+    
+    System.out.println("ALO MUNDO");
  
 }
 
